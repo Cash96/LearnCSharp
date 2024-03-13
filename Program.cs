@@ -545,14 +545,16 @@ namespace HelloWorld
             // TheFam(child:name_3, dad:name_1, mom:name_2);
 
             // functions can be 'overloaded'. This means multiple functions have the same name but the param structure changes.
-            double width = 20;
-            double length = 15;
+            // double width = 20;
+            // double length = 15;
 
-            int area_int = find_area(Convert.ToInt32(width), Convert.ToInt32(length));
-            double area_double = find_area(width, length);
+            // int area_int = find_area(Convert.ToInt32(width), Convert.ToInt32(length));
+            // double area_double = find_area(width, length);
 
-            Console.WriteLine($"Here is the are as an int: {area_int}");
-            Console.WriteLine($"Here is the area as a double: {area_double}");
+            // Console.WriteLine($"Here is the are as an int: {area_int}");
+            // Console.WriteLine($"Here is the area as a double: {area_double}");
+
+            
 
 
              
